@@ -1,0 +1,17 @@
+:root{
+    --mainColor: darkgoldenrod;
+	--secondaryColor:#192734; 
+
+    --borderColor:#164D56;
+
+	--mainText: lightgray;
+	--secondaryText: #eeeeee;
+
+	--themeDotBorder:#fff;
+
+	--previewBg:rgb(25, 39, 52, 0.8);
+	--previewShadow:#111921;
+
+
+	--buttonColor:lightblue; 
+}
