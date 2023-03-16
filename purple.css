@@ -1,6 +1,6 @@
 :root{
-    --mainColor: darkgoldenrod;
-	--secondaryColor:rgb(116, 88, 17); 
+    --mainColor: #7B2869;
+	--secondaryColor:#C85C8E; 
 
     --borderColor:#164D56;
 
@@ -14,4 +14,9 @@
 
 
 	--buttonColor:rgb(40, 103, 124); 
+}
+
+a{
+    text-decoration: none;
+    color:#1471c1;
 }
