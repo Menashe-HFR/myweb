@@ -1,6 +1,6 @@
 :root{
-    --mainColor: midnightblue;
-	--secondaryColor:#192734; 
+    --mainColor: rgb(36, 36, 99);
+	--secondaryColor:#153350; 
 
     --borderColor:#164D56;
 
@@ -10,7 +10,7 @@
 	--themeDotBorder:#fff;
 
 	--previewBg:rgb(25, 39, 52, 0.8);
-	--previewShadow:#111921;
+	--previewShadow:#16212c;
 
 
 	--buttonColor:lightblue; 

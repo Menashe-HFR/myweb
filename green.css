@@ -1,6 +1,6 @@
 :root{
     --mainColor: darkcyan;
-	--secondaryColor:#192734; 
+	--secondaryColor: hsl(172, 46%, 42%); 
 
     --borderColor:#164D56;
 
@@ -14,4 +14,9 @@
 
 
 	--buttonColor:lightblue; 
+}
+
+a{
+    text-decoration: none;
+    color:#00e686;
 }
